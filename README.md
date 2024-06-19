@@ -1,5 +1,9 @@
 # Stock Fenix
 
+🔗**Jira Board:** ["Ir al board..."](https://nicolasdacunda.atlassian.net/jira/software/projects/GTN/boards/1)
+
+🔗**Repo Github:** ["Ir al repo..."](https://github.com/roberNicoTejada/StockFenix)
+
 ![Stock Fenix](https://your-image-url.com/logo.png)
 
 Stock Fenix es un sistema de gestión de inventarios diseñado para ayudar a las empresas a gestionar su stock de manera eficiente y precisa. Este sistema ofrece una interfaz fácil de usar y herramientas avanzadas para el seguimiento, control y optimización del inventario.
@@ -19,10 +23,4 @@ Stock Fenix es un sistema de gestión de inventarios diseñado para ayudar a las
 - **Base de datos:** MSSQLSERVER 
 
 ## Instalación
-
-## Utiles
-
-["Jira Board"](https://nicolasdacunda.atlassian.net/jira/software/projects/GTN/boards/1)
-
-["Repositorio GitHub"](https://github.com/roberNicoTejada/StockFenix)
 
