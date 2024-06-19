@@ -22,7 +22,7 @@ Stock Fenix es un sistema de gestión de inventarios diseñado para ayudar a las
 
 ## Utiles
 
-![Jira Board](https://nicolasdacunda.atlassian.net/jira/software/projects/GTN/boards/1)
+!["Jira Board"](https://nicolasdacunda.atlassian.net/jira/software/projects/GTN/boards/1)
 
-![Repositorio GitHub](https://github.com/roberNicoTejada/StockFenix)
+!["Repositorio GitHub"](https://github.com/roberNicoTejada/StockFenix)
 
